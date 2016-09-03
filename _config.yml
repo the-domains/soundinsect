@@ -1,19 +1,4 @@
-name: SoundInsect
-favicon: null
-layout_spectrum: 0.9708794481121004
 typography_spectrum: 0.833176854532212
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ADD7F6'
@@ -25,4 +10,20 @@ color:
   lightness: 0.26879034168086946
   saturation: 0.7301830046344548
   rhythmicContrast: 0.632755569415167
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.9708794481121004
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: SoundInsect
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+description: test
 purpose: []
